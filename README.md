@@ -1,1 +1,1 @@
-# Marvel vs DC Project - Data Analytics Project
+# Marvel vs DC - Data Analytics Project
