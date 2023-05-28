@@ -6,6 +6,8 @@ With Power BI's visualization features, I created dynamic and visually appealing
 
 This project provides companies with valuable insights to optimize their marketing strategies, licensing agreements, and product development efforts in the comic book industry and movie franchise. By harnessing data-driven insights, businesses can adapt to market dynamics and gain a competitive edge.
 
+[SQL files, Dataset in SQL and CSV and PowerBI file are Available in the files]
+
 ## POWERBI DASHBOARD
 
 ![Marvel vs DC PowerBI Dashboard](https://github.com/AbhinavG5/Marvel-vs-DC-Project/blob/main/Marvel%20vs%20DC%20PowerBI%20Dashboard.jpg)
@@ -73,4 +75,3 @@ FROM marveldc
 WHERE tomato_meter > 80 AND imdb_rating > 7.5
 LIMIT 10;
 
-[SQL files, Dataset in SQL and CSV and PowerBI file are Available in the files]
