@@ -10,7 +10,7 @@ This project provides companies with valuable insights to optimize their marketi
 
 ## POWERBI DASHBOARD
 
-![Marvel vs DC PowerBI Dashboard](https://github.com/AbhinavG5/Marvel-vs-DC-Project/blob/main/Marvel%20vs%20DC%20PowerBI%20Dashboard.jpg)
+![Marvel vs DC PowerBI Dashboard](https://github.com/AbhinavG5/Marvel-vs-DC-Project/blob/main/Marvel%20vs%20DC%20PowerBI%20Dashboard.png)
 
 ## SQL QUERIES (Screenshots)
 
