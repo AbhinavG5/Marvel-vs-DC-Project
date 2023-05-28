@@ -72,3 +72,5 @@ SELECT title
 FROM marveldc
 WHERE tomato_meter > 80 AND imdb_rating > 7.5
 LIMIT 10;
+
+## (SQL files, Dataset in SQL and CSV and PowerBI file are Available in the files)
