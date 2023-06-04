@@ -1,4 +1,4 @@
-# Marvel vs DC (Data Analytics Project)
+# Marvel vs DC Franchise Analysis (Data Analytics Project)
 ### Tools Used: SQL & PowerBI
 I created an Marvel vs. DC analytics project using SQL and Power BI to analyze and visualize data. By leveraging SQL's data querying capabilities, I organized and analyzed relevant data on Marvel and DC properties.
 
